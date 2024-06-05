@@ -1,22 +1,24 @@
-Java
-Selenium
-TestNG
-Cucumber
-Postman
-Maven
-Jira
-Agile
-S K I L L S
-6290553094
-Kollkata
-soumyaghosh13@gmail.com
-https://www.linkedin.com/in/s
-oumya-ghosh13/
+##6290553094
+##Kollkata
+##soumyaghosh13@gmail.com
+##https://www.linkedin.com/in/soumya-ghosh13/
+
+## S K I L L S
+##Java
+##Selenium
+##TestNG
+##Cucumber
+##Postman
+##Maven
+##Jira
+##Agile
+
 SDET over 8 years of experience with history of
 working in Computer , E-Commerce & Health
 industry as Automation and Manual Testing.
-P R O F I L E
-E X P E R I E N C E
+
+##P R O F I L E E X P E R I E N C E
+
 Chenoa Information Services
 Testvagrant Technologies
 2020 - Present
@@ -40,7 +42,7 @@ Identify manual Test and inefficiencies and
 improve them with Automation.
 Design and Implement hybrid test framework
 using Selenium, Java, Cucumber, TestNG, Jenkins
-E D U C A T I O N
+##E D U C A T I O N
 Annamalai Univercity
 2013 - 2016
 BCA
