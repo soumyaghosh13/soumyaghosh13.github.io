@@ -1,8 +1,7 @@
 # SR . SDET
 # SOUMYA GHOSH
 
-###SDET over 10 years of experience with history of
-###working in  E-Commerce & Health domain industry
+SDET over 10 years of experience with history of working in  E-Commerce & Health domain industry
 
 # CONTACT
 ## 6290553094
