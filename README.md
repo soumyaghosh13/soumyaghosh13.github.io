@@ -28,6 +28,6 @@ SDET over 10 years of experience with history of working in  E-Commerce & Health
 - Chenoa Information Services
 - Freelancer
 
-#EDUCATION
+# EDUCATION
 -  BCA from Annamalai Univercity
 -  Diploma in CS&TECH from Global Institute of Science & Technology
